@@ -7,10 +7,7 @@ import com.bank.service.AdminServiceImpl;
 import com.bank.service.BankCustomerService;
 import com.bank.service.BankCustomerServiceImpl;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
